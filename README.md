@@ -1,4 +1,4 @@
 # LabVIEW
-Mis proyectos en programacion gráfica (LabVIEW)
+My projects in Graphic code (LabVIEW) (data-flow visual programming)
 
---Animación
+Enjoy
